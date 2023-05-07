@@ -1,3 +1,3 @@
 # To start application
-1. Run "npm i" commnd
-2. Run "npm run dev"
+1. Run "npm i" command
+2. Run "npm run dev" command
